@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "920542940540",
+    "project_id": "fk-haber",
+    "storage_bucket": "fk-haber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920542940540:android:ca2b7f6c7a61a25e2428f9",
+        "android_client_info": {
+          "package_name": "tr.com.furkankurt.fk_haber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920542940540-nn7ehlcbtkn36tvbq2htij9mhom18u5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tr.com.furkankurt.fk_haber",
+            "certificate_hash": "056575e8f81782bfe6e90719fe4c263adbc3f02f"
+          }
+        },
+        {
+          "client_id": "920542940540-d096bo56pp3dg8q6mkpstto0dk3m2ua4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmLDCakCQ4asB9SAshNpJFZeZbDukXQQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920542940540-d096bo56pp3dg8q6mkpstto0dk3m2ua4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
